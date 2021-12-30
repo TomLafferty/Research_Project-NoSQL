@@ -1,5 +1,6 @@
 # NoSQL
 
+
     Name typically explained as "Not Only SQL" or "Non-relational"
 
 ## Relational Databases:
